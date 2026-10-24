@@ -1,0 +1,6 @@
+{
+  "name": "City English School System (CESS)",
+  "description": "Premier educational institution established in 1990. Official website and administration portal for City English School System featuring 4 campuses, online admissions, academic programs, and management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
